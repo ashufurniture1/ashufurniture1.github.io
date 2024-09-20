@@ -44,7 +44,7 @@
     "favicon": false,
     "noImageResize": "",
     "imageResize": true,
-    "mbrsiteDomain": "gcddef2q7a",
+    "mbrsiteDomain": "ashufurtest",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -53,7 +53,7 @@
     "cookiesAlert": false,
     "publishChangesOnly": false,
     "gdpr": false,
-    "publishEditFolder": true
+    "publishEditFolder": false
   },
   "pages": {
     "index.html": {
