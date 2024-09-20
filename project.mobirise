@@ -51,7 +51,7 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "gdpr": false,
     "publishEditFolder": true
   },
